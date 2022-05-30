@@ -1,5 +1,3 @@
 # SinarmasIbanking
 
-- Cek Balance
-- Mutasi
-- Tiket Deposit khusus Otomax
+Sumber https://www.banksinarmas.com/PersonalBanking
